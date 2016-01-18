@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DLG Mechatronics Sp. z o.o. High-Tech R&D subsidiary of PRO VITA Group.                     ]]></title>
-        <description><![CDATA[DLG Mechatronics Sp. z o.o. High-Tech R&D subsidiary of PRO VITA Group.                     ]]></description>
+        <title><![CDATA[DLG Mechatronics Sp. z o.o. High-Tech R&D subsidiary of PRO VITA Group.                                                              ]]></title>
+        <description><![CDATA[DLG Mechatronics Sp. z o.o. High-Tech R&D subsidiary of PRO VITA Group.                                                              ]]></description>
         <link>https://thegrid.ai/dlg-mechatronics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 16:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 16:30:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dlg-mechatronics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Current project :]]></title>
-            <description><![CDATA[<article><h1>Current project :</h1><p>The first project realized by DLG Mechatronics is the development of POC (Portable Oxygen Concentrator) supporting therapy for people touched by COPD (Chronic Obstructive Pulmonary Disease) . The device will be characterized by innovative approach with respect to intuitive system and improvement of patient’s safety.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc1998a-51c7-44f3-8fde-9b8571f78715.JPG"></article>]]></description>
+            <title><![CDATA[Current R&D Project :]]></title>
+            <description><![CDATA[<article><h1>Current R&D Project :</h1><p>The first project realized by DLG Mechatronics is the development of POC (Portable Oxygen Concentrator) supporting therapy for people touched by COPD (Chronic Obstructive Pulmonary Disease) . The device will be characterized by innovative approach with respect to intuitive system and improvement of patient’s safety.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3d8b0b3d38456c2a6046580f60f54e609066b89.jpg"></article>]]></description>
             <link>https://thegrid.ai/dlg-mechatronics/current-project/index.html</link>
             <guid isPermaLink="false">37a7979c-2e8f-4fa5-b983-59cb38d3f47f</guid>
-            <pubDate>Mon, 18 Jan 2016 16:27:42 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 16:30:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Company:]]></title>
@@ -26,7 +26,7 @@ Over 14 years of experience resulted in establishment of a special purpose entit
             <description><![CDATA[<article><h1>Contact:</h1><p>DLG Mechatronics Sp. z o.o. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20e3727a7462349a5dbf68c9a964bbd532545ff6.jpg"></article>]]></description>
             <link>https://thegrid.ai/dlg-mechatronics/contact/index.html</link>
             <guid isPermaLink="false">fcb5f12d-eafb-4c76-8f13-003ed0942295</guid>
-            <pubDate>Mon, 18 Jan 2016 16:19:26 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 16:30:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
