@@ -1,0 +1,28 @@
+name: 'DLG Mechatronics '
+favicon: null
+layout_spectrum: 0.4832822852768004
+typography_spectrum: 0.16271545691415668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2335008718073368
+  lightness: 0.6079602874815464
+  saturation: 0.2438563434407115
+  rhythmicContrast: 0.053507842822000384
+purpose: []
