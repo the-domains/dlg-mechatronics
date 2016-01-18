@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T16:30:25.821Z'
-dateModified: '2016-01-18T16:29:48.394Z'
-title: 'Current R&D Project :'
+datePublished: '2016-01-18T20:42:25.462Z'
+dateModified: '2016-01-18T20:42:23.260Z'
+title: Project
 author: []
 sourcePath: _posts/2016-01-18-current-project.md
 published: true
@@ -22,5 +22,13 @@ url: current-project/index.html
 _type: Article
 
 ---
-_The first project realized by DLG Mechatronics is the development of POC (Portable Oxygen Concentrator) supporting therapy for people touched by COPD (Chronic Obstructive Pulmonary Disease) . The device will be characterized by innovative approach with respect to intuitive system and improvement of patient's safety._
+> _**DLG Mechatronics focuses on the development of breakthrough POC technology (POC = Portable Oxygen Concentrator) based on new approach to mobile oxygen therapy for people suffering from COPD (Chronic Obstructive Pulmonary Disease) .  [][0]**_
+> 
+> _**Our innovative solution is meant to change everyday**__**live of oxygen demanding patients.   
+> DLG's experienced Team of Medical Doctors and research engineers  closely work with Key Opinion Leading medical facilities to establish new standard in oxygen therapy.**__****_
+> 
+> 
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc1998a-51c7-44f3-8fde-9b8571f78715.JPG)
+
+[0]: null
