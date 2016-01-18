@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T21:10:04.153Z'
-dateModified: '2016-01-18T21:09:41.580Z'
+datePublished: '2016-01-18T21:12:35.339Z'
+dateModified: '2016-01-18T21:12:30.115Z'
 title: PRO VITA Group
 author: []
+sourcePath: _posts/2016-01-18-pro-vita-group.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-pro-vita-group.md
-published: true
 url: pro-vita-group/index.html
-_type: Article
+_type: WebPage
 
 ---
 Since 14 years PRO VITA Group specializes in Advanced Medical Technologies concentrating on innovative and High-Tech solutions.
