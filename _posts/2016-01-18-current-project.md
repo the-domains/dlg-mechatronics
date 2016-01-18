@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-18T20:42:25.902Z'
-dateModified: '2016-01-18T20:42:23.260Z'
-title: Project
+description: What we do
+datePublished: '2016-01-18T20:57:04.811Z'
+dateModified: '2016-01-18T20:56:59.374Z'
+title: 'Project:'
 author: []
 sourcePath: _posts/2016-01-18-current-project.md
 published: true
