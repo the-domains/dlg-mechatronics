@@ -1,5 +1,8 @@
+name: 'DLG Mechatronics '
+favicon: null
+layout_spectrum: 0.46894
+typography_spectrum: 0.43443
 title: 'DLG Mechatronics Sp. z o.o - The High-Tech R&D subsidiary of PRO VITA Group.                                                              '
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  lightness: 0.5
-  brandStrength: 0.1756272
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#646464'
     - '#DFDFDF'
     - '#3A3A3A'
+  brandStrength: 0.1756272
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: 'DLG Mechatronics '
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.43443
-layout_spectrum: 0.46894
+purpose: []
