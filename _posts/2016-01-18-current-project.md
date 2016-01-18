@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: What we do
-datePublished: '2016-01-18T20:57:04.865Z'
-dateModified: '2016-01-18T20:56:59.374Z'
+description: What we do?
+datePublished: '2016-01-18T21:11:11.264Z'
+dateModified: '2016-01-18T21:11:07.650Z'
 title: 'Project:'
 author: []
 sourcePath: _posts/2016-01-18-current-project.md
