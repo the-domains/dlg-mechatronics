@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T16:27:42.657Z'
-dateModified: '2016-01-18T16:27:26.699Z'
-title: 'Current project :'
+datePublished: '2016-01-18T16:30:25.821Z'
+dateModified: '2016-01-18T16:29:48.394Z'
+title: 'Current R&D Project :'
 author: []
+sourcePath: _posts/2016-01-18-current-project.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-current-project.md
-published: true
 url: current-project/index.html
 _type: Article
 
