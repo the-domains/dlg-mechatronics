@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DLG Mechatronics Sp. z o.o. High-Tech R&D subsidiary of PRO VITA Group.]]></title>
+        <description><![CDATA[DLG Mechatronics Sp. z o.o. High-Tech R&D subsidiary of PRO VITA Group.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 16:16:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact:]]></title>
+            <description><![CDATA[<article><h1>Contact:</h1><p>DLG Mechatronics Sp. z o.o. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6c46d5c-f1e9-47be-af58-8e54fc3977e3.jpg"></article>]]></description>
+            <link>undefinedcontact/index.html</link>
+            <guid isPermaLink="false">fcb5f12d-eafb-4c76-8f13-003ed0942295</guid>
+            <pubDate>Mon, 18 Jan 2016 16:16:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
