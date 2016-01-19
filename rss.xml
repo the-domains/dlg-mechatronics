@@ -4,8 +4,15 @@
         <description><![CDATA[DLG Mechatronics Sp. z o.o  The High-Tech R&D subsidiary of PRO VITA Group                                                          ]]></description>
         <link>https://thegrid.ai/dlg-mechatronics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 19:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 19:21:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dlg-mechatronics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact:]]></title>
+            <description><![CDATA[<article><h1>Contact:</h1><p>DLG Mechatronics Sp. z o.o. Ul. Technologiczna 245-839 OpolePolandtel. +48 77 4621300fax +48 77 4621301info@dlgmechatronics.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6ee90d23a9205b5169c965287123974abf04ff0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dlg-mechatronics/contact/index.html</link>
+            <guid isPermaLink="false">c142af98-782f-4822-9966-14966ed8d011</guid>
+            <pubDate>Tue, 19 Jan 2016 19:21:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Video Illustration on How a Portable Oxygen Concentrator Works]]></title>
             <description><![CDATA[<article><h1>A Video Illustration on How a Portable Oxygen Concentrator Works</h1><p>View inside a portable oxygen concentrator and see how it turns air into breathable, medical grade oxygen. Learn more here: http://www.oxygenconcentratorstore.com/reference-material/how-concentrators-work/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/428008d8df734eb74056c702b971f38ad9d17f2a.jpg"></article>]]></description>
@@ -27,13 +34,6 @@ Over 14 years of experience resulted in establishment of a special purpose entit
             <link>https://thegrid.ai/dlg-mechatronics/company/index.html</link>
             <guid isPermaLink="false">1f001aa2-0a75-4081-8793-0f1acd77ab47</guid>
             <pubDate>Mon, 18 Jan 2016 20:57:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact:]]></title>
-            <description><![CDATA[<article><h1>Contact:</h1><p>tel. +48 77 4621300fax +48 77 4621301</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/071e1f555acdc0ee62491b033f76d122de1d98d9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dlg-mechatronics/contact/index.html</link>
-            <guid isPermaLink="false">fcb5f12d-eafb-4c76-8f13-003ed0942295</guid>
-            <pubDate>Mon, 18 Jan 2016 21:12:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
