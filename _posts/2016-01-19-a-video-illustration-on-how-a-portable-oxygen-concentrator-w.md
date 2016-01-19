@@ -17,7 +17,7 @@ keywords:
   - remitz
   - shalom
 description: ''
-datePublished: '2016-01-19T19:48:55.112Z'
+datePublished: '2016-01-19T19:48:55.198Z'
 dateModified: '2016-01-19T19:48:52.296Z'
 author:
   - name: American Medical Sales and Repair
